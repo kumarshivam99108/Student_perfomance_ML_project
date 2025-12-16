@@ -1,6 +1,14 @@
 # Student_perfomance_ML_project
 <img width="1269" height="513" alt="Screenshot 2025-12-16 213012" src="https://github.com/user-attachments/assets/8a9b395e-c036-49ac-a6b0-3bcb3cd0c6f6" />
 
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/student-performance-classification.git
+
 
 # 🎓 Student Performance Classification (Decision Tree & Random Forest)
 
